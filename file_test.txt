@@ -1,2 +1,2 @@
 Este arquivo de teste é chamado "file_test.txt" e serve para ser inserido no Repositório "1st_repository".
-Ele poderia ser um arquivo de código-fonte de uma aplicação escrito em alguma linguagem de programação.
+E poderia ser um arquivo de código-fonte de uma aplicação escrito em alguma linguagem de programação.
