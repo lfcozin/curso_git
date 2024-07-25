@@ -1,2 +1,3 @@
 Este arquivo de teste é chamado "file_test.txt" e serve para ser inserido no Repositório "1st_repository".
 E poderia ser um arquivo de código-fonte de uma aplicação escrito em alguma linguagem de programação.
+Além de poder receber alterações realizadas diretamente via GitHub.
